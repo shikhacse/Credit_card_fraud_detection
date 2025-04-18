@@ -1,4 +1,4 @@
-# 💳 Credit Card Fraud Detection — EDA + Machine Learning
+# 💳 Credit Card Fraud Detection
 
 This project analyzes real-world credit card transaction data to detect fraudulent activities. It tackles the challenge of extreme data imbalance and builds robust machine learning models.
 
